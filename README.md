@@ -25,8 +25,3 @@
     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
-
-##
-
-	https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
