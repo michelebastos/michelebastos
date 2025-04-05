@@ -1,6 +1,6 @@
 
 # Olá, eu sou a Michele Bastos : QA Engineer                                                                                                      
-### Atualmente estudando sobre Automação Software 
+### Atualmente estudando sobre Automação de software 
 
 
 <div style="display: inline_block"><br>
