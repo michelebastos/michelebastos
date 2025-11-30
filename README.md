@@ -1,15 +1,12 @@
 
 # Olá, eu sou a Michele Bastos : QA Engineer                                                                                                      
-### Atualmente estudando sobre Automação de software 
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">                                                                                                                                  
-</div>
-
+### Projetos
+- pgtas-cypress - AutomationExercise - Projeto dedicado ao trabalho de conclusão da disciplina de WEB - Pós-graduação em Automação de Testes de Software.
+- pgats-2025-02-base-api - Projeto dedicado ao trabalho de conclusão da disciplina de API - Pós-graduação em Automação de Testes de Software.
+- pgtas-progamacao-js - Projeto final desenvolvido para o módulo "Programação para Automação de Testes"-  Pós-graduação em Automação de Testes de Software.
+- pgtas-02-api - API em memória para aprendizado de testes e automação. Implementa registro, login, listagem de usuários e transferências com regras simples.
+- DesafioKabumRobot - Projeto desenvolvido durante o desafio proposto pela Kabum, com uso do Robot Framework e Selenium
+- desafioTopaz - Desafio Topaz com Appium e CodeceptJS
 ##
 
 <div style="display: inline_block"><br> 
@@ -19,10 +16,5 @@
 </div>
 
 ##
-  <div align="left">
-  <a href="https://github.com/michelebastos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelebastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
